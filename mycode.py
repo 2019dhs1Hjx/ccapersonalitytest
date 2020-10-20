@@ -10,13 +10,13 @@ outdoor1 = input("I cannot stand staying in the house.")
 
 music1 = input("I can see colours in my mind when I hear music.")
 
-tech2 = input("I know how to build apps and websites.")
+tech2 = input("I know how to build relationships.")
 
-outdoor2 = input("I'm good with tying knots and ropes.")
+outdoor2 = input("I'm good at dancing.")
 
 music2 = input("I play a musical instrument well.")
 
-tech3 = input("I can code well")
+tech3 = input("Sleeping is my hobby.")
 
 
 
